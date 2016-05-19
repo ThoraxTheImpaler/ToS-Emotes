@@ -5,7 +5,7 @@ Tree of Savior emotes
 # Installation
 1. Install [this](https://github.com/Natsulus/Custom-Emotes)
 2. Open the User Settings window and navigate to Custom Emotes
-3. In the Emotes tab, add `https://github.com/ThoraxTheImpaler/ToS-Emotes/blob/master/EmoteList.json`
+3. In the Emotes tab, add `https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/EmoteList.json`
 4. Enjoy!
 
 # Emote List
