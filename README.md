@@ -4,71 +4,72 @@ Tree of Savior emotes
 
 # Emote List
 
+![bearKepa Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearKepa.png)
 bearKepa
-![bearKepa](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearKepa.png)
 
+![bearMad Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearMad.png)
 bearMad
-![bearMad](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearMad.png)
 
+![kepaSad Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaSad.png)
 kepaSad
-![kepaSad](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaSad.png)
 
+![kepaYay Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaYay.png)
 kepaYay
-![kepaYay](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaYay.png)
 
+![PetLove Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/PetLove.png)
 PetLove
-![PetLove](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/PetLove.png)
 
+
+![popoBarf Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoBarf.png)
 popoBarf
-![popoBarf](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoBarf.png)
 
+![popoDrool Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoDrool.png)
 popoDrool
-![popoDrool](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoDrool.png)
 
+![popoEZ Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoEZ.png)
 popoEZ
-![popoEZ](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoEZ.png)
 
+![popoFlashy Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoFlashy.png)
 popoFlashy
-![popoFlashy](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoFlashy.png)
 
+![popoHorror Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoHorror.png)
 popoHorror
-![popoHorror](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoHorror.png)
 
+![popoKappa Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKappa.png)
 popoKappa
-![popoKappa](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKappa.png)
 
+![popoKing Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKing.png)
 popoKing
-![popoKing](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKing.png)
 
+![popoKiss1 Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss1.png)
 popoKiss1
-![popoKiss1](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss1.png)
 
+![popoKiss2 Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss2.png)
 popoKiss2
-![popoKiss2](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss2.png)
 
+![popoMad Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoMad.png)
 popoMad
-![popoMad](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoMad.png)
 
+![popoRage Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRage.png)
 popoRage
-![popoRage](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRage.png)
 
+![popoRIP Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRIP.png)
 popoRIP
-![popoRIP](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRIP.png)
 
+![popoSad Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSad.png)
 popoSad
-![popoSad](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSad.png)
 
+![popoShock Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoShock.png)
 popoShock
-![popoShock](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoShock.png)
 
+![popoSmug Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSmug.png)
 popoSmug
-![popoSmug](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSmug.png)
 
+![popoThirsty Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoThirsty.png)
 popoThirsty
-![popoThirsty](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoThirsty.png)
 
+![popoYay Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoYay.png)
 popoYay
-![popoYay](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoYay.png)
 
+![tosTalt Image](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/tosTalt.png)
 tosTalt
-![tosTalt](https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/tosTalt.png)
