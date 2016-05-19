@@ -3,7 +3,7 @@
 Tree of Savior emotes
 
 # Requirements
-1. [etterDiscord](https://betterdiscord.net/home/)
+1. [BetterDiscord](https://betterdiscord.net/home/)
 2. [Custom Emotes plugin](https://github.com/Natsulus/Custom-Emotes)
 
 # Installation
