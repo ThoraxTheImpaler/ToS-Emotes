@@ -1,5 +1,5 @@
 {
-	"name": "ToS Emotes"
+	"name": "ToS Emotes",
 	"emotes": {
 		"bearKepa": {
 			"size": 64,
@@ -115,6 +115,6 @@
 			"size": 64,
 			"type": "image",
 			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/tosTalt.png"
-		},
+		}
 	}
 }
