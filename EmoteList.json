@@ -2,119 +2,119 @@
 	"name": "ToS Emotes",
 	"emotes": {
 		"bearKepa": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearKepa.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/bearKepa.png"
 		},
 		"bearMad": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/bearMad.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/bearMad.png"
 		},
 		"kepaSad": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaSad.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/kepaSad.png"
 		},
 		"kepaYay": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/kepaYay.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/kepaYay.png"
 		},
 		"PetLove": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/PetLove.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/PetLove.png"
 		},
 		"popoBarf": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoBarf.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoBarf.png"
 		},
 		"popoDrool": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoDrool.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoDrool.png"
 		},
 		"popoEZ": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoEZ.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoEZ.png"
 		},
 		"popoFlashy": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoFlashy.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoFlashy.png"
 		},
 		"popoHorror": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoHorror.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoHorror.png"
 		},
 		"popoKappa": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKappa.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoKappa.png"
 		},
 		"popoKing": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKing.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoKing.png"
 		},
 		"popoKiss1": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss1.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoKiss1.png"
 		},
 		"popoKiss2": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoKiss2.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoKiss2.png"
 		},
 		"popoMad": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoMad.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoMad.png"
 		},
 		"popoRage": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRage.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoRage.png"
 		},
 		"popoRIP": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoRIP.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoRIP.png"
 		},
 		"popoSad": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSad.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoSad.png"
 		},
 		"popoShock": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoShock.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoShock.png"
 		},
 		"popoSmug": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoSmug.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoSmug.png"
 		},
 		"popoThirsty": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoThirsty.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoThirsty.png"
 		},
 		"popoYay": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/popoYay.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/popoYay.png"
 		},
 		"tosTalt": {
-			"size": 64,
+			"size": 32,
 			"type": "image",
-			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/64/tosTalt.png"
+			"url": "https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/32/tosTalt.png"
 		}
 	}
 }
