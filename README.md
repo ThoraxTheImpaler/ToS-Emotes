@@ -2,8 +2,11 @@
 
 Tree of Savior emotes
 
+# Requirements
+1. [etterDiscord](https://betterdiscord.net/home/)
+2. [Custom Emotes plugin](https://github.com/Natsulus/Custom-Emotes)
+
 # Installation
-1. Install [this](https://github.com/Natsulus/Custom-Emotes)
 2. Open the User Settings window and navigate to Custom Emotes
 3. In the Emotes tab, add `https://raw.githubusercontent.com/ThoraxTheImpaler/ToS-Emotes/master/EmoteList.json`
 4. Enjoy!
